@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Fullstack Web Development<br>⚡ Fun fact i`m 19
+🌱 I’m currently learning Fullstack Web Development, Data Science, Android Development<br>⚡ Fun fact i`m 19
 
 
 ## 🌐 Socials:
